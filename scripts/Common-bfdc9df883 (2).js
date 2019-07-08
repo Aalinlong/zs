@@ -1,0 +1,1 @@
+"use strict";sessionStorage.api="http://ca.zhzjy.org:6788",sessionStorage.register_api="http://reg.zhzjy.org:8005",sessionStorage.enableMsgpack="false",sessionStorage.enableDebug="false",sessionStorage.OnlineTopUp="http://pay.tjsteady.com/userpay/?Userid=BWSTKR";

@@ -1,0 +1,1 @@
+!function(){var e={setValue:function(e,t){var o="string"==typeof t?t:JSON.stringify(t);localStorage.setItem(e,o)},getValue:function(e){return localStorage.getItem(e)},removeValue:function(e){localStorage.removeItem(e)}};window.SystemStorage=e}();
